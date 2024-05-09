@@ -1,0 +1,6 @@
+com.twitter.hpack
+megex.app
+megex.app.client
+megex.app.server
+megex.serialization
+megex.serialization.test

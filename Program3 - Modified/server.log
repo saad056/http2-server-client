@@ -1,0 +1,60 @@
+Apr 30, 2023 3:46:57 PM megex.app.server.Server start
+INFO: Server started on port: 8090
+Apr 30, 2023 3:47:01 PM megex.app.server.Server start
+INFO: Client connected: 0:0:0:0:0:0:0:1
+Apr 30, 2023 3:47:01 PM megex.app.server.Server$ConnectionHandler run
+INFO: Received Message: Settings: StreamID=0
+Apr 30, 2023 3:47:01 PM megex.app.server.Server$ConnectionHandler run
+INFO: Received Message: Window_Update: StreamID=0 increment=15663105
+Apr 30, 2023 3:47:01 PM megex.app.server.Server$ConnectionHandler run
+WARNING: Received message: Headers: StreamID=1 isEnd=true ([:method=GET][:authority=localhost:8090][:scheme=https][:path=/Big1.html][cache-control=max-age=0][sec-ch-ua="Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"][sec-ch-ua-mobile=?0][sec-ch-ua-platform="Windows"][upgrade-insecure-requests=1][user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36][accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7][sec-fetch-site=none][sec-fetch-mode=navigate][sec-fetch-user=?1][sec-fetch-dest=document][accept-encoding=gzip, deflate, br][accept-language=en-US,en;q=0.9][cookie=_xsrf=2|c97842de|20621c29b411dc48bfb4f283a1e770a9|1681632072])
+Apr 30, 2023 3:47:01 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent:Headers: StreamID=1 isEnd=false ([:status=200])
+Apr 30, 2023 3:47:01 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:02 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:03 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:04 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:05 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:06 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:07 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:08 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:09 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:10 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:11 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:12 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:13 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:14 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:15 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:16 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:17 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:18 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:19 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:20 PM megex.app.server.Server$ConnectionHandler run
+INFO: Sent: Data: StreamID=1 isEnd=false data=1000
+Apr 30, 2023 3:47:21 PM megex.app.server.Server$ConnectionHandler run
+INFO: Received Message: Window_Update: StreamID=0 increment=4000
+Apr 30, 2023 3:47:21 PM megex.app.server.Server$ConnectionHandler run
+INFO: Received Message: Window_Update: StreamID=0 increment=3000
+Apr 30, 2023 3:47:21 PM megex.app.server.Server$ConnectionHandler run
+INFO: Received Message: Window_Update: StreamID=0 increment=3000
+Apr 30, 2023 3:48:01 PM megex.app.server.Server$ConnectionHandler closeSocket
+SEVERE: Closing Client Socket: 
